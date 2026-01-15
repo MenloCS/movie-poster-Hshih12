@@ -87,22 +87,16 @@ It got closer to zootopia but not quite.
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+Show me a Zootopia-style poster with different characters
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- nothing, it chose completely wrong characters that were not in the movie, next time, I will change the prompt to specify which characters need to be in the poster. 
 
 **Attempt 4:**  
-- **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
+-It made the bunny and fox appear, and made them the same height.  
 
 **Final AI Image Selected:** (Which attempt? Why?)  
 
----
-
+I selected the first one because I think the more modifications I made, perplexity became 
 ## Step 4: Photoshop Modifications
 *(Commit message: "Added Photoshop modifications")*
 
@@ -117,8 +111,8 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 - Remove unwanted elements  
 
 **Your Modifications:**  
-1.  
-2.  
+1.  Make it say zootopia 
+2.  change the bunny height 
 3. (optional)  
 
 **Save your final poster as:** `final-poster.jpg` or `final-poster.png`  
